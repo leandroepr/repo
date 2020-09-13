@@ -19,9 +19,9 @@
         "fraction": "49",
         "cents": "99"
       },
-      "InstallmentsInfo": "em 10x R$ 5,65",
-      "status": "Novo",
-      "seled-amount": 741,
+      "installmentsInfo": "em 10x R$ 5,65",
+      "condition": "Novo",
+      "sold-amount": 890,
       "isShipping": true,
       "stockAmount": 100,
       "categories": [
