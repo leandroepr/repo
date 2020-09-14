@@ -17,26 +17,14 @@
       "price": "49.99",
       "installmentsInfo": "em 10x R$ 5,65",
       "condition": "Novo",
-      "sold-amount": 890,
+      "soldAmount": 890,
       "isShipping": true,
       "stockAmount": 100,
       "categories": [
-        {
-          "id": "roupas",
-          "display-name": "Roupas"
-        },
-        {
-          "id": "camisetas",
-          "display-name": "Camisetas"
-        },
-        {
-          "id": "masculino",
-          "display-name": "Masculino"
-        },
-        {
-          "id": "curta",
-          "display-name": "Curta"
-        }
+        "Roupas",
+        "Camisetas",
+        "Masculino",
+        "Curta"
       ]
     }
   ],
