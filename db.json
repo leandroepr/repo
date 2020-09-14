@@ -196,6 +196,24 @@
         "Feminino",
         "Urbano"
       ]
+    },
+    {
+      "id": "sapatenis-tenis-casual-masculino-cano-alto-da-polo-botinha",
+      "title": "Sapatenis Tenis Casual Masculino Cano Alto Da Polo Botinha",
+      "description": "Promoção por tempo Limitado!!!",
+      "imageUrl": "https://http2.mlstatic.com/sapatenis-tenis-casual-masculino-cano-alto-da-polo-botinha-D_NQ_NP_797235-MLB28274296751_102018-F.jpg",
+      "price": "64.50",
+      "installmentsInfo": "em 12x R$ 6,13",
+      "condition": "Novo",
+      "soldAmount": 3049,
+      "stockAmount": 30,
+      "categories": [
+        "Calçados",
+        "Sapatos",
+        "Tênis",
+        "Masculino",
+        "Polo Joy"
+      ]
     }
   ]
 }
